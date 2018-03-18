@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NYCQuiz</string>
+    <string name="question_einstein">The eyeballs of Albert Einstein are stored in a safe deposit box in the city. </string>
+    <string name="question_students">There are more undergrad and graduate students in NYC than Boston has people.</string>
+    <string name="question_baseball">There are three baseball teams in NYC, the Mets, Yankees, and Dodgers.</string>
+    <string name="question_staten">Staten Island has the largest population of the boroughs.</string>
+    <string name="question_empire">The Empire State Building has a separate zip code.</string>
+    <string name="question_pinball">Pinball was banned in NYC until 1978.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="warning">Are You Sure You Want To Do This? </string>
+    <string name="showAnswer"> Show Answer</string>
+    <string name="cheatButton">Cheat</string>
+    <string name="cheatToast">Cheating is wrong.</string>
+</resources>
